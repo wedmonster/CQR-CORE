@@ -1,0 +1,13 @@
+*.jpg
+*.png
+.setting/
+target/
+.setting/*
+target/*
+.setting
+target
+.classpath
+.project
+.txt
+.pdf
+
